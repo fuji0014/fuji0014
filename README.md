@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    I am <b>Amy Fujimoto</b>, a recent <b>Computer Science</b> graduate from <a href="https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/"> <b>Algonquin College</b></a> and with a bachelor's degree in <b>Aerospace Engineering</b> from <a href="https://admissions.carleton.ca/programs/aerospace-engineering/"> <b>Carrleton University</a>.
+    I am <b>Amy Fujimoto</b>, a recent <b>Computer Science</b> graduate from <a href="https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/"> <b>Algonquin College</b></a> and with a bachelor's degree in <b>Aerospace Engineering</b> from <a href="https://admissions.carleton.ca/programs/aerospace-engineering/"> <b>Carleton University</a>.
     Experience working as <b>Java Developer,</b>&nbsp; <b>UI/UX Designer, </b>and <b>RPA Developer.</b> 
   <br>
   <br>
